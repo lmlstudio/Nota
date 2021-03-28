@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2019\Project\LML NOTE\bin\Release\LML NOTE.exe.config
+D:\Documents\Visual Studio 2019\Project\LML NOTE\bin\Release\LML NOTE.exe
+D:\Documents\Visual Studio 2019\Project\LML NOTE\bin\Release\LML NOTE.pdb
+D:\Documents\Visual Studio 2019\Project\LML NOTE\obj\Release\LML NOTE.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2019\Project\LML NOTE\obj\Release\LML_NOTE.Form1.resources
+D:\Documents\Visual Studio 2019\Project\LML NOTE\obj\Release\LML_NOTE.Properties.Resources.resources
+D:\Documents\Visual Studio 2019\Project\LML NOTE\obj\Release\LML NOTE.csproj.GenerateResource.cache
+D:\Documents\Visual Studio 2019\Project\LML NOTE\obj\Release\LML NOTE.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2019\Project\LML NOTE\obj\Release\LML NOTE.exe
+D:\Documents\Visual Studio 2019\Project\LML NOTE\obj\Release\LML NOTE.pdb
