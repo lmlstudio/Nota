@@ -12,7 +12,7 @@ Nota is a simple note-taking software that allows you to record your notes on yo
 
 You can create multiple notes at the same time, give it a title, content, read and delete them. 
 The software is still in beta, there will be many  new features in the future. 
-
+<img src="images/Emoticons/cool.png" alt="hi" class="inline"/>
 The saving mode is currently being programmed, will  appear in the next update.
 
 v1.0 (28/03/2021): Released
