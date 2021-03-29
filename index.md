@@ -1,8 +1,8 @@
 ## Welcome to the official page of Nota - A note taking sofware
 
 Download it here: 
-
-Itch.io: https://lml-studio.itch.io/nota
+[Link](https://lml-studio.itch.io/nota)
+Itch.io: 
 
 
 
@@ -11,6 +11,7 @@ Itch.io: https://lml-studio.itch.io/nota
 Nota is a simple note-taking software that allows you to record your notes on your computer without using paper. 
 You can create multiple notes at the same time, give it a title, content, read and delete them. 
 ![Image](https://img.itch.zone/aW1nLzU1MzI5NzgucG5n/original/eFv1dH.png)
+![Image](https://img.itch.zone/aW1nLzU1MzI5ODEucG5n/original/7GAZrT.png)
 The software is still in beta, there will be many  new features in the future. 
 The saving mode is currently being programmed, will  appear in the next update.
 
