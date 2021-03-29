@@ -4,7 +4,7 @@ Download it here:
 
 Itch.io: [Link](https://lml-studio.itch.io/nota)
 
-https://www.youtube.com/embed/R6oWf6Ip4pM
+video: https://www.youtube.com/embed/R6oWf6Ip4pM
 
 ### What is this?
 
