@@ -3,8 +3,9 @@
 Download it here: 
 
 Itch.io: [Link](https://lml-studio.itch.io/nota)
+First Look: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R6oWf6Ip4pM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ### What is this?
@@ -23,7 +24,7 @@ Upcomming Feature: Save System so you can save your note and open it later.
 
 
 ```markdown
-{% include youtubePlayer.html id=page.youtubeId %}
+
 Syntax highlighted code block
 
 # Header 1
