@@ -1,8 +1,9 @@
 ## Welcome to the official page of Nota - A note taking sofware
 
 Download it here: 
-[Link](https://lml-studio.itch.io/nota)
-Itch.io: 
+
+Itch.io: [Link](https://lml-studio.itch.io/nota)
+
 
 
 
