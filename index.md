@@ -2,6 +2,8 @@
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 ## Welcome to the official page of Nota - A note taking sofware
 
+Say goodbye to your notebook because now you have NOTA!
+
 Download it here: 
 
 Itch.io: [Link](https://lml-studio.itch.io/nota)
