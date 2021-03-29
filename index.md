@@ -23,6 +23,7 @@ Upcomming Feature: Save System so you can save your note and open it later.
 
 
 ```markdown
+{% include youtubePlayer.html id=page.youtubeId %}
 Syntax highlighted code block
 
 # Header 1
