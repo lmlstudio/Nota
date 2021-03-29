@@ -4,7 +4,7 @@ Download it here:
 
 Itch.io: [Link](https://lml-studio.itch.io/nota)
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ntkme/github-buttons/archive/master.zip" data-icon="octicon-download" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
+<a class="github-button" href="https://lml-studio.itch.io/nota/download/eyJleHBpcmVzIjoxNjE3MDI1MjM0LCJpZCI6OTc0MjczfQ%3d%3d.y00fWziWth%2fZPCSog%2b1OWwXttwE%3d" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-icon="octicon-download" aria-label="Download ntkme/github-buttons on GitHub">Download</a>
 
 First Look: 
 
