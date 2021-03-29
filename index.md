@@ -6,9 +6,20 @@ Itch.io: https://lml-studio.itch.io/nota
 
 
 
-### Markdown
+### What is this?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nota is a simple note-taking software that allows you to record your notes on your computer without using paper. 
+
+You can create multiple notes at the same time, give it a title, content, read and delete them. 
+The software is still in beta, there will be many  new features in the future. 
+
+The saving mode is currently being programmed, will  appear in the next update.
+
+v1.0 (28/03/2021): Released
+
+Upcomming Feature: Save System so you can save your note and open it later.
+
+
 
 ```markdown
 Syntax highlighted code block
